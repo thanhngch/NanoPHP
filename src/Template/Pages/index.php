@@ -5,6 +5,7 @@
     <title>Document</title>
 </head>
 <body>
-    <h1>hello view file</h1>    
+    <h1>hello view file</h1> 
+    <p><?php echo $happy; ?></p>   
 </body>
 </html>
